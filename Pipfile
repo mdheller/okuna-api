@@ -8,10 +8,10 @@ polib = "*"
 pytz = "*"
 
 [packages]
-django = "==2.2.5"
+django = "==3.2.25"
 python-dotenv = "*"
 djangorestframework = "*"
-sentry-sdk = "==0.10.2"
+sentry-sdk = "==2.8.0"
 mysqlclient = "*"
 pillow = "*"
 django-nose = "*"
